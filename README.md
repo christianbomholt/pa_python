@@ -1,1 +1,2 @@
-# pa_python
+# PA_course
+Material for PA course
